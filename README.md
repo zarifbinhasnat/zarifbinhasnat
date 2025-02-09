@@ -33,8 +33,6 @@ Cybersecurity & Web Development
 
 Origami & Algorithmic Art
 
-Microbiology
-
 Aquaculture, Bonsai, and Nature-related Studies
 
 Gardening & Fishkeeping

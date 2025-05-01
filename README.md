@@ -27,9 +27,11 @@ Robotics & Embedded Systems: Arduino (previous experience)
 
 🌱 Interests & Hobbies :
 
-Competitive Programming & Algorithms
+Competitive Programming 
 
-Cybersecurity & Web Development
+Cybersecurity  
+
+Web Development
 
 Origami & Algorithmic Art
 
@@ -37,7 +39,7 @@ Aquaculture, Bonsai, and Nature-related Studies
 
 Gardening & Fishkeeping
 
-Blogging & Writing
+Blogging
 
 I enjoy exploring mathematical patterns in both technology and the natural world!
 

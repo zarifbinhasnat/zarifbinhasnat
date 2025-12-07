@@ -2,11 +2,11 @@
 
 🚀 About Me :
 
-I'm a Computer Science undergraduate at IUT, currently in my third semester, exploring various domains of technology and science. I love learning new things, solving problems, and understanding the beauty of nature through math and algorithms.
+I'm a Computer Science undergraduate at IUT, currently in my fifth semester, exploring various domains of technology and science. I love learning new things, solving problems, and understanding the beauty of nature through math and algorithms.
 
 🎯 What I'm Learning :
 
-Full-Stack Web Development (Starting with The Odin Project)
+Full-Stack Web Development 
 
 JavaScript and modern web technologies
 
@@ -14,8 +14,7 @@ Machine Learning (NumPy, Scikit-learn, Pandas – Andrew Ng's course)
 
 Database Management Systems and SQL
 
-Computer Architecture & Linear Algebra
-
+Operating Systems and Microprocessor
 
 🛠️ Technical Skills :
 
